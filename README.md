@@ -11,3 +11,5 @@ Planned features are:
  - A custom OpenGL-based 3d item and character preview
  - Saves with 4 save slots
  - Multilingual support without the need to create another game
+
+Game scripting is done via lua and it should done in a main.asc file.
