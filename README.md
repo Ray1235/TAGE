@@ -13,3 +13,8 @@ Planned features are:
  - Multilingual support without the need to create another game
 
 Game scripting is done via lua and it should done in a main.asc file.
+
+Uses: 
+ - MonoSharp
+ - SharpGL
+ - AeroWizard
